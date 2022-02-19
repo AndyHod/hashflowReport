@@ -1,6 +1,11 @@
-Position 1  unknown team: totalTrades:14472K$. Group same deal was at amount 9996$
+Stat time:Sat Feb 19 2022 19:07:21 GMT+0300 (Москва, стандартное время)
+lastKnownBlock 6393656. Request blocks from 6393656
+Total known txes 8543
+
+
+Position 1  unknown team: totalTrades:14473K$. Group same deal was at amount 9996$
 0x5f13fbd61bc5dc77758d72f4fbf17ba591f1962f total trades :5302440$ with 54 txes.
-0x85687cc0a149e77227fcba1269a1dd4055f38010 total trades :67005$ with 34 txes.
+0x85687cc0a149e77227fcba1269a1dd4055f38010 total trades :67165$ with 35 txes.
 0xbefe9091541d2fd2bb2b931536fbee0383c4c4e0 total trades :4087019$ with 21 txes.
 0xa7e5a837382c4b2a484bd2afadc8b5a5f6d74e87 total trades :5015890$ with 91 txes.
 
@@ -51,9 +56,9 @@ Position 6  BU!! team: totalTrades:8905K$. Group same deal was at amount 33333$
 0x882c8e57cf50ea8563182d331a3ecf8c99e953cf total trades :2103335$ with 51 txes.
 
 
-Position 7  unknown team: totalTrades:5453K$. Group same deal was at amount 87$
+Position 7  unknown team: totalTrades:5457K$. Group same deal was at amount 87$
 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :1646697$ with 90 txes.
-0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :221389$ with 69 txes.
+0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :224804$ with 70 txes.
 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :1832881$ with 111 txes.
 0x5057b32e28e66a651524142f99411df9a751133d total trades :1640185$ with 128 txes.
 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes.
@@ -65,10 +70,10 @@ Position 7  unknown team: totalTrades:5453K$. Group same deal was at amount 87$
 0x5f96d3941d6470ac234eecaa38c0c6cbafb1d431 total trades :9070$ with 4 txes.
 
 
-Position 8  unknown team: totalTrades:5402K$. Group same deal was at amount 77$
+Position 8  unknown team: totalTrades:5406K$. Group same deal was at amount 77$
 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :1832881$ with 111 txes.
 0x5057b32e28e66a651524142f99411df9a751133d total trades :1640185$ with 128 txes.
-0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :221389$ with 69 txes.
+0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :224804$ with 70 txes.
 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes.
 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :1646697$ with 90 txes.
 0x2025a4e1aa6c71cd125036bf560661edc37b1912 total trades :948$ with 10 txes.
@@ -81,19 +86,19 @@ Position 8  unknown team: totalTrades:5402K$. Group same deal was at amount 77$
 0xe786b38f7a1f3a6e4d849b96149b9a0f0813f503 total trades :3623$ with 22 txes.
 
 
-Position 9  unknown team: totalTrades:5386K$. Group same deal was at amount 68$
+Position 9  unknown team: totalTrades:5390K$. Group same deal was at amount 68$
 0x5057b32e28e66a651524142f99411df9a751133d total trades :1640185$ with 128 txes.
 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :1832881$ with 111 txes.
 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :1646697$ with 90 txes.
 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes.
-0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :221389$ with 69 txes.
+0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :224804$ with 70 txes.
 
 
-Position 10  unknown team: totalTrades:5386K$. Group same deal was at amount 369$
+Position 10  unknown team: totalTrades:5390K$. Group same deal was at amount 369$
 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :1646697$ with 90 txes.
 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :1832881$ with 111 txes.
 0x5057b32e28e66a651524142f99411df9a751133d total trades :1640185$ with 128 txes.
-0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :221389$ with 69 txes.
+0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :224804$ with 70 txes.
 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes.
 
 
@@ -306,13 +311,13 @@ Position 32  Top888 team: totalTrades:142K$. Group same deal was at amount 88$
 0xf8d8cfa5998355c6fd8063c1a343d5d58ec4db9d total trades :975$ with 4 txes.
 
 
-Position 33  unknown team: totalTrades:69K$. Group same deal was at amount 0$
+Position 33  unknown team: totalTrades:70K$. Group same deal was at amount 0$
 0xe2fa2c4b001ab422afba187d28e59cba93a02aca total trades :495$ with 11 txes.
 0xb9351502e7dd9689ff48536b5dc6947b59640a00 total trades :495$ with 11 txes.
 0xea64fea3f5acae0323a19b8d7e9d58d1c75ffb0f total trades :495$ with 11 txes.
 0xcff34f8efc521b45623e719b896673413cdd916a total trades :495$ with 11 txes.
 0x1bbae2d283f2c14f43147e53d4f1b69601a1eac3 total trades :495$ with 11 txes.
-0x85687cc0a149e77227fcba1269a1dd4055f38010 total trades :67005$ with 34 txes.
+0x85687cc0a149e77227fcba1269a1dd4055f38010 total trades :67165$ with 35 txes.
 0x8950827be8fa721fdfbe7764f2b6c3988132dffc total trades :3$ with 5 txes.
 
 
@@ -492,7 +497,7 @@ Position 55  unknown team: totalTrades:1K$. Group same deal was at amount 109$
 0xc875a15956b4a47c8e85791d9891577eec762bc2 total trades :218$ with 2 txes.
 0x1e8db1b988d230fd93ba2e2386a28c98d3c72542 total trades :218$ with 2 txes.
 0x150765a99c5e0cf58e56ea41e92d110e2747002c total trades :218$ with 2 txes.
-Parsed tx: 4287
+Parsed tx: 4289
 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 Top887+888, counter: 141, Total: 11580 K$
 0x12663f45f741f606dcbafab09b1409302c40893c unknown, counter: 135, Total: 7465 K$
 0x5f13fbd61bc5dc77758d72f4fbf17ba591f1962f unknown, counter: 54, Total: 5302 K$
@@ -532,7 +537,7 @@ Parsed tx: 4287
 0x5883fd07e422e2edfdb48cd25578a531534dbd2e unknown, counter: 29, Total: 243 K$
 0x5725a458b319d73b8ec84c47de80620e7b191b0c unknown, counter: 43, Total: 239 K$
 0x4520cd8bc085b962ef8c0ec696ac9d3ef1d8bf55 unknown, counter: 42, Total: 227 K$
-0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 unknown, counter: 69, Total: 221 K$
+0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 unknown, counter: 70, Total: 225 K$
 0x27000a1867d0ac4fc072b71c8522f772fb088196 unknown, counter: 38, Total: 202 K$
 0x17e8a43ee27e57491777f4f3d3c507300ace2518 unknown, counter: 7, Total: 192 K$
 0xf324d0476b0f89e37ee8cdd0e6d6a44e93daf179 unknown, counter: 114, Total: 184 K$
@@ -556,7 +561,7 @@ Parsed tx: 4287
 0x8bc8b4e4921101bcc56ec084b906069b73de7276 Top887+888, counter: 20, Total: 72 K$
 0xf115a3c46a71b36b9039122c5c454c26e84f2325 unknown, counter: 8, Total: 71 K$
 0x033d815f4fb30b2459a396e004c5a7ecfe30ec39 unknown, counter: 6, Total: 71 K$
-0x85687cc0a149e77227fcba1269a1dd4055f38010 unknown, counter: 34, Total: 67 K$
+0x85687cc0a149e77227fcba1269a1dd4055f38010 unknown, counter: 35, Total: 67 K$
 0xb291fac3a49eda43a1b670a309982d48bdce17e5 unknown, counter: 16, Total: 60 K$
 0x7a6cbd7a4562021fbdc0ac328c6c572fd703087a unknown, counter: 11, Total: 56 K$
 0x3b5087712d9f88d15a564e12ae56dd3b5a89ac6d unknown, counter: 11, Total: 56 K$
