@@ -1,190 +1,134 @@
-Stat time:Sun Feb 20 2022 15:06:57 GMT+0300 (Москва, стандартное время)
-lastKnownBlock 6453212. Request blocks from 6453212
-Total known txes 15773
+Stat time:Sun Feb 20 2022 15:19:24 GMT+0300 (Москва, стандартное время)
+lastKnownBlock 6454234. Request blocks from 6454234
+Total known txes 16194
 
 
-Position 1  Trades77+68+369 team: totalTrades:40732K$. Group same deal was at amount 87$
-Rate by vol: 17. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
-Rate by vol: 9. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
-Rate by vol: 14. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
-Rate by vol: 16. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
-Rate by vol: 97. 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes. Team with wallets Trades77+68+369
-Rate by vol: 19. 0xe966e9d9f3f7a69b7bd826f0e7a6bb6ded7d337a total trades :4038938$ with 105 txes. Team with wallets Trades88
+Position 1  Trades77+68+369 team: totalTrades:41759K$. Group same deal was at amount 87$
+Rate by vol: 18. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
+Rate by vol: 10. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
+Rate by vol: 15. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
+Rate by vol: 17. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
+Rate by vol: 21. 0xe966e9d9f3f7a69b7bd826f0e7a6bb6ded7d337a total trades :4038938$ with 105 txes. Team with wallets Trades88
 Rate by vol: 13. 0x952d90403d485d2c1cd9477dfcd64278b1979c0b total trades :5107716$ with 134 txes. Team with wallets Trades88
-Rate by vol: 20. 0x59604bee5568e13a00d7dc92ebf78d368a22e226 total trades :4029947$ with 110 txes. Team with wallets Trades88
-Rate by vol: 3. 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e total trades :7998700$ with 88 txes. Team with wallets Trades88
-Rate by vol: 57. 0xfde41c9725853914ea0360a50b30c01b680aa570 total trades :204953$ with 7 txes.
-Rate by vol: 124. 0x5f96d3941d6470ac234eecaa38c0c6cbafb1d431 total trades :9070$ with 4 txes.
+Rate by vol: 14. 0x59604bee5568e13a00d7dc92ebf78d368a22e226 total trades :5057125$ with 138 txes. Team with wallets Trades88
+Rate by vol: 6. 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e total trades :7998700$ with 88 txes. Team with wallets Trades88
 
 
 Position 2  Trades80 team: totalTrades:25407K$. Group same deal was at amount 80$
 Rate by vol: 25. 0x54375008678b25815a7c14dad244ee9b5152b371 total trades :3457809$ with 63 txes. Team with wallets Trades80
-Rate by vol: 15. 0xf6740baf57f26235e46e162654d3e71b9a4bb89c total trades :4459620$ with 83 txes. Team with wallets Trades80
+Rate by vol: 16. 0xf6740baf57f26235e46e162654d3e71b9a4bb89c total trades :4459620$ with 83 txes. Team with wallets Trades80
 Rate by vol: 2. 0x55bf0a7204a4a5ce4cc58c163daefd6a11a3aeb2 total trades :11403909$ with 213 txes. Team with wallets Trades80
 Rate by vol: 28. 0xf823fc0feaf755fa38ba165030eb0c52de558be5 total trades :2736344$ with 57 txes. Team with wallets Trades80
 Rate by vol: 26. 0xf234011af77b2e2f7ec0ba1c07e4c32e9c249a5c total trades :3348976$ with 62 txes. Team with wallets Trades80
 
 
-Position 3  unknown team: totalTrades:21465K$. Group same deal was at amount 88$
-Rate by vol: 96. 0x32c60f98fba68cbbb279f3f9a2b2eb500ff32d61 total trades :46359$ with 9 txes.
-Rate by vol: 107. 0xb12744a3083e8f010421a7d3d57f8acbce995c7f total trades :27412$ with 17 txes.
-Rate by vol: 169. 0xfc0256cf46e14465e94af1dc66db5dd1ad3caff2 total trades :975$ with 2 txes.
-Rate by vol: 19. 0xe966e9d9f3f7a69b7bd826f0e7a6bb6ded7d337a total trades :4038938$ with 105 txes. Team with wallets Trades88
+Position 3  unknown team: totalTrades:22492K$. Group same deal was at amount 88$
+Rate by vol: 21. 0xe966e9d9f3f7a69b7bd826f0e7a6bb6ded7d337a total trades :4038938$ with 105 txes. Team with wallets Trades88
 Rate by vol: 13. 0x952d90403d485d2c1cd9477dfcd64278b1979c0b total trades :5107716$ with 134 txes. Team with wallets Trades88
-Rate by vol: 20. 0x59604bee5568e13a00d7dc92ebf78d368a22e226 total trades :4029947$ with 110 txes. Team with wallets Trades88
-Rate by vol: 3. 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e total trades :7998700$ with 88 txes. Team with wallets Trades88
-Rate by vol: 57. 0xfde41c9725853914ea0360a50b30c01b680aa570 total trades :204953$ with 7 txes.
-Rate by vol: 124. 0x5f96d3941d6470ac234eecaa38c0c6cbafb1d431 total trades :9070$ with 4 txes.
-Rate by vol: 168. 0xf8d8cfa5998355c6fd8063c1a343d5d58ec4db9d total trades :975$ with 4 txes.
+Rate by vol: 14. 0x59604bee5568e13a00d7dc92ebf78d368a22e226 total trades :5057125$ with 138 txes. Team with wallets Trades88
+Rate by vol: 6. 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e total trades :7998700$ with 88 txes. Team with wallets Trades88
 
 
-Position 4  Trades8081+5000 team: totalTrades:19815K$. Group same deal was at amount 5000$
-Rate by vol: 22. 0x50a259a4ac82ff596ac929bbe120846677f04384 total trades :3551059$ with 184 txes. Team with wallets Trades8081+5000
-Rate by vol: 56. 0x5883fd07e422e2edfdb48cd25578a531534dbd2e total trades :243002$ with 29 txes. Team with wallets Trades8081+5000
-Rate by vol: 7. 0xe24f1714203518c0972f9e81286e273b445980b5 total trades :7000487$ with 128 txes. Team with wallets Trades8081+5000
-Rate by vol: 5. 0x12663f45f741f606dcbafab09b1409302c40893c total trades :7465494$ with 135 txes. Team with wallets Trades8081+5000
-Rate by vol: 53. 0x27000a1867d0ac4fc072b71c8522f772fb088196 total trades :297016$ with 56 txes.
-Rate by vol: 60. 0x4fd09716007de0dd039e81e376d26e0f80197aba total trades :179159$ with 34 txes.
-Rate by vol: 48. 0xd454ed303748bb5a433388f9508433ba5d507030 total trades :374501$ with 66 txes.
-Rate by vol: 50. 0x5725a458b319d73b8ec84c47de80620e7b191b0c total trades :357613$ with 63 txes.
-Rate by vol: 51. 0x4520cd8bc085b962ef8c0ec696ac9d3ef1d8bf55 total trades :346468$ with 62 txes.
+Position 4  Trades8081+5000 team: totalTrades:21275K$. Group same deal was at amount 5000$
+Rate by vol: 22. 0x50a259a4ac82ff596ac929bbe120846677f04384 total trades :3857233$ with 200 txes. Team with wallets Trades8081+5000
+Rate by vol: 5. 0xe24f1714203518c0972f9e81286e273b445980b5 total trades :8154821$ with 148 txes. Team with wallets Trades8081+5000
+Rate by vol: 7. 0x12663f45f741f606dcbafab09b1409302c40893c total trades :7465494$ with 135 txes. Team with wallets Trades8081+5000
 
 
-Position 5  Trades77+68+369 team: totalTrades:19368K$. Group same deal was at amount 77$
-Rate by vol: 14. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
-Rate by vol: 16. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
-Rate by vol: 9. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
-Rate by vol: 97. 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes. Team with wallets Trades77+68+369
-Rate by vol: 17. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
-Rate by vol: 157. 0x2025a4e1aa6c71cd125036bf560661edc37b1912 total trades :1446$ with 16 txes.
-Rate by vol: 155. 0xad95c1e0ae792920c8111828d35cd3c5915a594f total trades :1509$ with 18 txes.
-Rate by vol: 156. 0xf69e2ed6ac4e7913c365cca245f26d7b5c7b45ce total trades :1506$ with 18 txes.
-Rate by vol: 154. 0x228444692728dd23150cf7942f426e1d083200c9 total trades :1509$ with 18 txes.
-Rate by vol: 158. 0x966619cbea9f157508e2586e63c9a80957dac285 total trades :1361$ with 17 txes.
-Rate by vol: 135. 0x2ba0cf3a45d78fb39cd2a75516c3338d5f36dd37 total trades :5886$ with 41 txes.
-Rate by vol: 134. 0xaf002b63f2d353c88dc4628d2ee894d97cbbc10e total trades :5956$ with 42 txes.
-Rate by vol: 137. 0xe786b38f7a1f3a6e4d849b96149b9a0f0813f503 total trades :5648$ with 38 txes.
+Position 5  Trades9996 team: totalTrades:20580K$. Group same deal was at amount 9996$
+Rate by vol: 4. 0x5f13fbd61bc5dc77758d72f4fbf17ba591f1962f total trades :8206870$ with 84 txes. Team with wallets Trades9996
+Rate by vol: 19. 0xbefe9091541d2fd2bb2b931536fbee0383c4c4e0 total trades :4087019$ with 21 txes. Team with wallets Trades9996
+Rate by vol: 3. 0xa7e5a837382c4b2a484bd2afadc8b5a5f6d74e87 total trades :8218373$ with 213 txes. Team with wallets Trades9996
 
 
-Position 6  Trades77+68+369 team: totalTrades:19343K$. Group same deal was at amount 68$
-Rate by vol: 16. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
-Rate by vol: 14. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
-Rate by vol: 17. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
-Rate by vol: 97. 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes. Team with wallets Trades77+68+369
-Rate by vol: 9. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
+Position 6  Trades8081+5000 team: totalTrades:19721K$. Group same deal was at amount 8081$
+Rate by vol: 22. 0x50a259a4ac82ff596ac929bbe120846677f04384 total trades :3857233$ with 200 txes. Team with wallets Trades8081+5000
+Rate by vol: 5. 0xe24f1714203518c0972f9e81286e273b445980b5 total trades :8154821$ with 148 txes. Team with wallets Trades8081+5000
+Rate by vol: 7. 0x12663f45f741f606dcbafab09b1409302c40893c total trades :7465494$ with 135 txes. Team with wallets Trades8081+5000
 
 
-Position 7  Trades77+68+369 team: totalTrades:19343K$. Group same deal was at amount 369$
-Rate by vol: 17. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
-Rate by vol: 14. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
-Rate by vol: 16. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
-Rate by vol: 9. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
-Rate by vol: 97. 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes. Team with wallets Trades77+68+369
+Position 7  Trades77+68+369 team: totalTrades:19368K$. Group same deal was at amount 77$
+Rate by vol: 15. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
+Rate by vol: 17. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
+Rate by vol: 10. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
+Rate by vol: 18. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
 
 
-Position 8  Trades8081+5000 team: totalTrades:18260K$. Group same deal was at amount 8081$
-Rate by vol: 22. 0x50a259a4ac82ff596ac929bbe120846677f04384 total trades :3551059$ with 184 txes. Team with wallets Trades8081+5000
-Rate by vol: 56. 0x5883fd07e422e2edfdb48cd25578a531534dbd2e total trades :243002$ with 29 txes. Team with wallets Trades8081+5000
-Rate by vol: 7. 0xe24f1714203518c0972f9e81286e273b445980b5 total trades :7000487$ with 128 txes. Team with wallets Trades8081+5000
-Rate by vol: 5. 0x12663f45f741f606dcbafab09b1409302c40893c total trades :7465494$ with 135 txes. Team with wallets Trades8081+5000
+Position 8  Trades77+68+369 team: totalTrades:19343K$. Group same deal was at amount 68$
+Rate by vol: 17. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
+Rate by vol: 15. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
+Rate by vol: 18. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
+Rate by vol: 10. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
 
 
-Position 9  Trades9996 team: totalTrades:18065K$. Group same deal was at amount 9996$
-Rate by vol: 10. 0x5f13fbd61bc5dc77758d72f4fbf17ba591f1962f total trades :6079094$ with 62 txes. Team with wallets Trades9996
-Rate by vol: 84. 0x85687cc0a149e77227fcba1269a1dd4055f38010 total trades :67815$ with 40 txes. Team with wallets Trades9996
-Rate by vol: 18. 0xbefe9091541d2fd2bb2b931536fbee0383c4c4e0 total trades :4087019$ with 21 txes. Team with wallets Trades9996
-Rate by vol: 4. 0xa7e5a837382c4b2a484bd2afadc8b5a5f6d74e87 total trades :7830726$ with 199 txes. Team with wallets Trades9996
+Position 9  Trades77+68+369 team: totalTrades:19343K$. Group same deal was at amount 369$
+Rate by vol: 18. 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 total trades :4166169$ with 223 txes. Team with wallets Trades77+68+369
+Rate by vol: 15. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
+Rate by vol: 17. 0x5057b32e28e66a651524142f99411df9a751133d total trades :4255663$ with 240 txes. Team with wallets Trades77+68+369
+Rate by vol: 10. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
 
 
-Position 10  Trades2022 team: totalTrades:15971K$. Group same deal was at amount 2022$
-Rate by vol: 33. 0xa568b2b843749d32874ef3f734e6b5f2a60d4585 total trades :1659748$ with 282 txes. Team with wallets Trades2022
-Rate by vol: 133. 0xef1c68fb74782a63ca676e39887925bf38736ed6 total trades :6064$ with 3 txes. Team with wallets Trades2022
+Position 10  Trades2022 team: totalTrades:16857K$. Group same deal was at amount 2022$
+Rate by vol: 33. 0xa568b2b843749d32874ef3f734e6b5f2a60d4585 total trades :1850964$ with 313 txes. Team with wallets Trades2022
 Rate by vol: 23. 0x3c5de42f02debbaa235f7a28e4b992362ffee0b6 total trades :3530109$ with 75 txes. Team with wallets Trades2022
-Rate by vol: 12. 0x2e44fce3fdd9ea80ef3e6242121a76d08dcb31d2 total trades :5367450$ with 149 txes. Team with wallets Trades2022
-Rate by vol: 11. 0x1d1569e8ecb88c0cb35f8920649f1aa66173a8bc total trades :5407672$ with 331 txes. Team with wallets Trades2022
+Rate by vol: 11. 0x2e44fce3fdd9ea80ef3e6242121a76d08dcb31d2 total trades :5933798$ with 165 txes. Team with wallets Trades2022
+Rate by vol: 12. 0x1d1569e8ecb88c0cb35f8920649f1aa66173a8bc total trades :5536180$ with 338 txes. Team with wallets Trades2022
 
 
-Position 11  Trades77+888+887 team: totalTrades:14559K$. Group same deal was at amount 888$
-Rate by vol: 1. 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 total trades :12615539$ with 154 txes. Team with wallets Trades77+888+887
-Rate by vol: 91. 0x73064f6c1c5dad8d917782aec16ab564feb3c011 total trades :52732$ with 47 txes. Team with wallets Trades77+888+887
-Rate by vol: 36. 0x30bf85e1d0bc7fdedcbeeff39225d8037cb0cb7c total trades :1074692$ with 43 txes. Team with wallets Trades77+888+887
-Rate by vol: 69. 0x8bc8b4e4921101bcc56ec084b906069b73de7276 total trades :109758$ with 30 txes. Team with wallets Trades77+888+887
-Rate by vol: 40. 0x667eeb11e3adfc2f3a8e30c2787f74a2760eccfe total trades :632300$ with 41 txes. Team with wallets Trades77+888+887
-Rate by vol: 96. 0x32c60f98fba68cbbb279f3f9a2b2eb500ff32d61 total trades :46359$ with 9 txes.
-Rate by vol: 107. 0xb12744a3083e8f010421a7d3d57f8acbce995c7f total trades :27412$ with 17 txes.
+Position 11  Trades888+887 team: totalTrades:14723K$. Group same deal was at amount 888$
+Rate by vol: 1. 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 total trades :12780018$ with 156 txes. Team with wallets Trades888+887
+Rate by vol: 36. 0x30bf85e1d0bc7fdedcbeeff39225d8037cb0cb7c total trades :1074692$ with 43 txes. Team with wallets Trades888+887
 
 
-Position 12  Trades77+888+887 team: totalTrades:14487K$. Group same deal was at amount 887$
-Rate by vol: 1. 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 total trades :12615539$ with 154 txes. Team with wallets Trades77+888+887
-Rate by vol: 144. 0x37205a67ad46ea0097ecfd900a89a1550127a249 total trades :2119$ with 4 txes.
-Rate by vol: 91. 0x73064f6c1c5dad8d917782aec16ab564feb3c011 total trades :52732$ with 47 txes. Team with wallets Trades77+888+887
-Rate by vol: 36. 0x30bf85e1d0bc7fdedcbeeff39225d8037cb0cb7c total trades :1074692$ with 43 txes. Team with wallets Trades77+888+887
-Rate by vol: 69. 0x8bc8b4e4921101bcc56ec084b906069b73de7276 total trades :109758$ with 30 txes. Team with wallets Trades77+888+887
-Rate by vol: 40. 0x667eeb11e3adfc2f3a8e30c2787f74a2760eccfe total trades :632300$ with 41 txes. Team with wallets Trades77+888+887
+Position 12  Trades888+887 team: totalTrades:14652K$. Group same deal was at amount 887$
+Rate by vol: 1. 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 total trades :12780018$ with 156 txes. Team with wallets Trades888+887
+Rate by vol: 36. 0x30bf85e1d0bc7fdedcbeeff39225d8037cb0cb7c total trades :1074692$ with 43 txes. Team with wallets Trades888+887
 
 
-Position 13  BU!! team: totalTrades:12474K$. Group same deal was at amount 33333$
+Position 13  BU!! team: totalTrades:12768K$. Group same deal was at amount 33333$
 Rate by vol: 31. 0x5bef45489a03462d199612c5cd992f114f398ea8 total trades :2096174$ with 47 txes. Team with wallets BU!!
-Rate by vol: 21. 0x36162c7b2d4a94686d74f8c9649769e1733ee42e total trades :3745081$ with 76 txes. Team with wallets BU!!
+Rate by vol: 20. 0x36162c7b2d4a94686d74f8c9649769e1733ee42e total trades :4039030$ with 82 txes. Team with wallets BU!!
 Rate by vol: 32. 0x41111188df7e8d89aeffb32eae28f8cb22222265 total trades :2007576$ with 43 txes. Team with wallets BU!!
 Rate by vol: 34. 0x3c9963d031569992b8c8ae45e2ccb19bf479320e total trades :1453639$ with 17 txes. Team with wallets BU!!
 Rate by vol: 27. 0x882c8e57cf50ea8563182d331a3ecf8c99e953cf total trades :3171338$ with 77 txes. Team with wallets BU!!
 
 
 Position 14  Trades77+68+369 team: totalTrades:10921K$. Group same deal was at amount 288$
-Rate by vol: 14. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
-Rate by vol: 9. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
-Rate by vol: 97. 0xc4fb22ce755343caed2efa98426887328730b821 total trades :45256$ with 86 txes. Team with wallets Trades77+68+369
+Rate by vol: 15. 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 total trades :4497591$ with 212 txes. Team with wallets Trades77+68+369
+Rate by vol: 10. 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 total trades :6378037$ with 200 txes. Team with wallets Trades77+68+369
 
 
 Position 15  unknown team: totalTrades:8489K$. Group same deal was at amount 999$
-Rate by vol: 148. 0x672c3b982325be86e221fe5d0eb5391ffa9cc8fc total trades :1998$ with 2 txes.
-Rate by vol: 150. 0x8ba4f911ebad585cdfc7f75138a5e694ed6c4666 total trades :1998$ with 2 txes.
-Rate by vol: 152. 0x6cab60cd9a02d9ed9398e6b9389a1e4ba7266006 total trades :1998$ with 2 txes.
-Rate by vol: 151. 0x57f676a1f98b544b41476f1b0c1caeef34f2f67e total trades :1998$ with 2 txes.
-Rate by vol: 149. 0xd1f1909927339be6fa401df5d3a70e9698d079ae total trades :1998$ with 2 txes.
-Rate by vol: 73. 0x2853c0688805a27299b1046e778e48b664197e43 total trades :94986$ with 96 txes.
-Rate by vol: 71. 0x077ddc0a0d47b4a9a8fed97cf47184462ae3b36b total trades :98951$ with 99 txes.
-Rate by vol: 77. 0x4afded08a6e95c343f232bbf4fa4629103c969e5 total trades :92955$ with 93 txes.
-Rate by vol: 74. 0x0961e962f58a835a626a2da4355639f036ec67f7 total trades :94953$ with 95 txes.
-Rate by vol: 75. 0xaa26587fd6052123c358563c37a57c96d08dd110 total trades :94953$ with 95 txes.
-Rate by vol: 146. 0xf5012a0606d4edbf3b0f05a2866c68d3454c0203 total trades :2023$ with 2 txes.
-Rate by vol: 167. 0x2c61eb8ca0bd5e41e88c08054bc87b30797ac06d total trades :999$ with 1 txes.
-Rate by vol: 3. 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e total trades :7998700$ with 88 txes. Team with wallets Trades88
+Rate by vol: 6. 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e total trades :7998700$ with 88 txes. Team with wallets Trades88
 
 
 Position 16  Trades8081+5000 team: totalTrades:5902K$. Group same deal was at amount 4995$
-Rate by vol: 56. 0x5883fd07e422e2edfdb48cd25578a531534dbd2e total trades :243002$ with 29 txes. Team with wallets Trades8081+5000
-Rate by vol: 44. 0x3a5ff40fabd290ad05d17d3673cf6943f9765d0d total trades :507524$ with 58 txes.
-Rate by vol: 43. 0x47045d1ee924ad6ff890ce8b52d6c1f08ad42235 total trades :507525$ with 58 txes.
-Rate by vol: 45. 0x9e4d92f6eaef2e2fd79f1a2884c1c12f5f3011dc total trades :507524$ with 58 txes.
-Rate by vol: 41. 0x2390441cc9d0fa8978dc3a411e6613029f464b01 total trades :607524$ with 68 txes.
 Rate by vol: 24. 0x62ad13dea5561bb80051780678c26bef1636ce4f total trades :3529007$ with 14 txes.
 
 
-Parsed tx: 7899
-1 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 Trades77+888+887, counter: 154, Total: 12616 K$
+Parsed tx: 8110
+1 0x649165b44a9ae50eaade055e9ecd88134c8ccd62 Trades888+887, counter: 156, Total: 12780 K$
 2 0x55bf0a7204a4a5ce4cc58c163daefd6a11a3aeb2 Trades80, counter: 213, Total: 11404 K$
-3 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e Trades88, counter: 88, Total: 7999 K$
-4 0xa7e5a837382c4b2a484bd2afadc8b5a5f6d74e87 Trades9996, counter: 199, Total: 7831 K$
-5 0x12663f45f741f606dcbafab09b1409302c40893c Trades8081+5000, counter: 135, Total: 7465 K$
-6 0xf436f85a9c26fc71afff2e9dd36c0eee66b8e1de unknown, counter: 73, Total: 7131 K$
-7 0xe24f1714203518c0972f9e81286e273b445980b5 Trades8081+5000, counter: 128, Total: 7000 K$
-8 0xcada38b3d2e3d8714e783ae8c420b4024817e3e8 unknown, counter: 131, Total: 6439 K$
-9 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 Trades77+68+369, counter: 200, Total: 6378 K$
-10 0x5f13fbd61bc5dc77758d72f4fbf17ba591f1962f Trades9996, counter: 62, Total: 6079 K$
-11 0x1d1569e8ecb88c0cb35f8920649f1aa66173a8bc Trades2022, counter: 331, Total: 5408 K$
-12 0x2e44fce3fdd9ea80ef3e6242121a76d08dcb31d2 Trades2022, counter: 149, Total: 5367 K$
+3 0xa7e5a837382c4b2a484bd2afadc8b5a5f6d74e87 Trades9996, counter: 213, Total: 8218 K$
+4 0x5f13fbd61bc5dc77758d72f4fbf17ba591f1962f Trades9996, counter: 84, Total: 8207 K$
+5 0xe24f1714203518c0972f9e81286e273b445980b5 Trades8081+5000, counter: 148, Total: 8155 K$
+6 0x2d1b780304bb9c7c3937bfec89e0a55dad12a35e Trades88, counter: 88, Total: 7999 K$
+7 0x12663f45f741f606dcbafab09b1409302c40893c Trades8081+5000, counter: 135, Total: 7465 K$
+8 0xf436f85a9c26fc71afff2e9dd36c0eee66b8e1de unknown, counter: 73, Total: 7131 K$
+9 0xcada38b3d2e3d8714e783ae8c420b4024817e3e8 unknown, counter: 145, Total: 7116 K$
+10 0x6a104d55ebc2cea43e1688e7b75881fe81e0ff34 Trades77+68+369, counter: 200, Total: 6378 K$
+11 0x2e44fce3fdd9ea80ef3e6242121a76d08dcb31d2 Trades2022, counter: 165, Total: 5934 K$
+12 0x1d1569e8ecb88c0cb35f8920649f1aa66173a8bc Trades2022, counter: 338, Total: 5536 K$
 13 0x952d90403d485d2c1cd9477dfcd64278b1979c0b Trades88, counter: 134, Total: 5108 K$
-14 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 Trades77+68+369, counter: 212, Total: 4498 K$
-15 0xf6740baf57f26235e46e162654d3e71b9a4bb89c Trades80, counter: 83, Total: 4460 K$
-16 0x5057b32e28e66a651524142f99411df9a751133d Trades77+68+369, counter: 240, Total: 4256 K$
-17 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 Trades77+68+369, counter: 223, Total: 4166 K$
-18 0xbefe9091541d2fd2bb2b931536fbee0383c4c4e0 Trades9996, counter: 21, Total: 4087 K$
-19 0xe966e9d9f3f7a69b7bd826f0e7a6bb6ded7d337a Trades88, counter: 105, Total: 4039 K$
-20 0x59604bee5568e13a00d7dc92ebf78d368a22e226 Trades88, counter: 110, Total: 4030 K$
-21 0x36162c7b2d4a94686d74f8c9649769e1733ee42e BU!!, counter: 76, Total: 3745 K$
-22 0x50a259a4ac82ff596ac929bbe120846677f04384 Trades8081+5000, counter: 184, Total: 3551 K$
+14 0x59604bee5568e13a00d7dc92ebf78d368a22e226 Trades88, counter: 138, Total: 5057 K$
+15 0xcb3d5e7eeb51962ad619b2b32a46b4c0b05a2bf2 Trades77+68+369, counter: 212, Total: 4498 K$
+16 0xf6740baf57f26235e46e162654d3e71b9a4bb89c Trades80, counter: 83, Total: 4460 K$
+17 0x5057b32e28e66a651524142f99411df9a751133d Trades77+68+369, counter: 240, Total: 4256 K$
+18 0x3a888e6217eb982344284c3e5bdfac4cb2f05343 Trades77+68+369, counter: 223, Total: 4166 K$
+19 0xbefe9091541d2fd2bb2b931536fbee0383c4c4e0 Trades9996, counter: 21, Total: 4087 K$
+20 0x36162c7b2d4a94686d74f8c9649769e1733ee42e BU!!, counter: 82, Total: 4039 K$
+21 0xe966e9d9f3f7a69b7bd826f0e7a6bb6ded7d337a Trades88, counter: 105, Total: 4039 K$
+22 0x50a259a4ac82ff596ac929bbe120846677f04384 Trades8081+5000, counter: 200, Total: 3857 K$
 23 0x3c5de42f02debbaa235f7a28e4b992362ffee0b6 Trades2022, counter: 75, Total: 3530 K$
 24 0x62ad13dea5561bb80051780678c26bef1636ce4f unknown, counter: 14, Total: 3529 K$
 25 0x54375008678b25815a7c14dad244ee9b5152b371 Trades80, counter: 63, Total: 3458 K$
@@ -195,23 +139,23 @@ Parsed tx: 7899
 30 0x84837c897f36bcd9b2e72eb3ed6401978c56bf2e unknown, counter: 62, Total: 2221 K$
 31 0x5bef45489a03462d199612c5cd992f114f398ea8 BU!!, counter: 47, Total: 2096 K$
 32 0x41111188df7e8d89aeffb32eae28f8cb22222265 BU!!, counter: 43, Total: 2008 K$
-33 0xa568b2b843749d32874ef3f734e6b5f2a60d4585 Trades2022, counter: 282, Total: 1660 K$
+33 0xa568b2b843749d32874ef3f734e6b5f2a60d4585 Trades2022, counter: 313, Total: 1851 K$
 34 0x3c9963d031569992b8c8ae45e2ccb19bf479320e BU!!, counter: 17, Total: 1454 K$
 35 0xc010b6ab4d5fdb22b5dea72afbf5d22431ec5d50 unknown, counter: 32, Total: 1153 K$
-36 0x30bf85e1d0bc7fdedcbeeff39225d8037cb0cb7c Trades77+888+887, counter: 43, Total: 1075 K$
+36 0x30bf85e1d0bc7fdedcbeeff39225d8037cb0cb7c Trades888+887, counter: 43, Total: 1075 K$
 37 0x78d58cc37cdaabfde72c9a45b57acbc3abc3d7c9 unknown, counter: 25, Total: 950 K$
 38 0xd35ed19f65d79a297ee81387e35b6cec7da1761f unknown, counter: 286, Total: 876 K$
 39 0x799dbd3d68bd7a85279e48c20318cc5857d6e12b unknown, counter: 177, Total: 796 K$
-40 0x667eeb11e3adfc2f3a8e30c2787f74a2760eccfe Trades77+888+887, counter: 41, Total: 632 K$
+40 0x667eeb11e3adfc2f3a8e30c2787f74a2760eccfe Trades888+887, counter: 41, Total: 632 K$
 41 0x2390441cc9d0fa8978dc3a411e6613029f464b01 unknown, counter: 68, Total: 608 K$
 42 0x8d21e3c8993633546e89cb4a24e5c0a5bc4d97e5 unknown, counter: 11, Total: 564 K$
 43 0x47045d1ee924ad6ff890ce8b52d6c1f08ad42235 unknown, counter: 58, Total: 508 K$
 44 0x3a5ff40fabd290ad05d17d3673cf6943f9765d0d unknown, counter: 58, Total: 508 K$
 45 0x9e4d92f6eaef2e2fd79f1a2884c1c12f5f3011dc unknown, counter: 58, Total: 508 K$
-46 0x09cf915e195af33fa7b932c253352ae9fbdb0106 unknown, counter: 29, Total: 453 K$
-47 0xb1f72d694711fce55c62ea97bd3739ff11cef986 unknown, counter: 25, Total: 391 K$
-48 0xd454ed303748bb5a433388f9508433ba5d507030 unknown, counter: 66, Total: 375 K$
-49 0xdcd1000cb62fae013aed379d9f1287d828bceaa3 unknown, counter: 101, Total: 363 K$
+46 0xdcd1000cb62fae013aed379d9f1287d828bceaa3 unknown, counter: 134, Total: 507 K$
+47 0x09cf915e195af33fa7b932c253352ae9fbdb0106 unknown, counter: 29, Total: 453 K$
+48 0xb1f72d694711fce55c62ea97bd3739ff11cef986 unknown, counter: 25, Total: 391 K$
+49 0xd454ed303748bb5a433388f9508433ba5d507030 unknown, counter: 66, Total: 375 K$
 50 0x5725a458b319d73b8ec84c47de80620e7b191b0c unknown, counter: 63, Total: 358 K$
 51 0x4520cd8bc085b962ef8c0ec696ac9d3ef1d8bf55 unknown, counter: 62, Total: 346 K$
 52 0x942fec89e62c34ecfb26694654bec567fbdf68b5 unknown, counter: 128, Total: 311 K$
@@ -231,35 +175,9 @@ Parsed tx: 7899
 66 0xf115a3c46a71b36b9039122c5c454c26e84f2325 unknown, counter: 13, Total: 116 K$
 67 0xede3235ccd29c05664625ffe338e6add03484361 unknown, counter: 9, Total: 115 K$
 68 0x5ae5e5278ce81a34b1fdfb737f7a6adaf8d110c4 unknown, counter: 4, Total: 112 K$
-69 0x8bc8b4e4921101bcc56ec084b906069b73de7276 Trades77+888+887, counter: 30, Total: 110 K$
+69 0x8bc8b4e4921101bcc56ec084b906069b73de7276 Trades888+887, counter: 30, Total: 110 K$
 70 0x66f2e146ad18b761a6be38e6f427b7899be8ef90 unknown, counter: 9, Total: 105 K$
 71 0x077ddc0a0d47b4a9a8fed97cf47184462ae3b36b unknown, counter: 99, Total: 99 K$
 72 0xd5eae51122129249abd9b6010f2d40a6cf3cb333 unknown, counter: 11, Total: 98 K$
 73 0x2853c0688805a27299b1046e778e48b664197e43 unknown, counter: 96, Total: 95 K$
 74 0x0961e962f58a835a626a2da4355639f036ec67f7 unknown, counter: 95, Total: 95 K$
-75 0xaa26587fd6052123c358563c37a57c96d08dd110 unknown, counter: 95, Total: 95 K$
-76 0x3e26163c5f8f9716816febb5ae21ac7835b5fa1b unknown, counter: 14, Total: 93 K$
-77 0x4afded08a6e95c343f232bbf4fa4629103c969e5 unknown, counter: 93, Total: 93 K$
-78 0xbe13084cea1e3c8615f781b85b995c4d95947080 unknown, counter: 10, Total: 86 K$
-79 0x271d8e39108990e89de0aef49275a194269b58c5 unknown, counter: 10, Total: 86 K$
-80 0x4abdf782327d3447f614525c842571e8172ce5a9 unknown, counter: 10, Total: 86 K$
-81 0x6da9d6f1e679d61fc81fa27ffd57b1c05c288c8f unknown, counter: 10, Total: 86 K$
-82 0xbb6770de14a10defcba77028ea41cfbbcc8c1792 unknown, counter: 55, Total: 75 K$
-83 0x033d815f4fb30b2459a396e004c5a7ecfe30ec39 unknown, counter: 6, Total: 71 K$
-84 0x85687cc0a149e77227fcba1269a1dd4055f38010 Trades9996, counter: 40, Total: 68 K$
-85 0xb291fac3a49eda43a1b670a309982d48bdce17e5 unknown, counter: 17, Total: 61 K$
-86 0x7a6cbd7a4562021fbdc0ac328c6c572fd703087a unknown, counter: 11, Total: 56 K$
-87 0x3b5087712d9f88d15a564e12ae56dd3b5a89ac6d unknown, counter: 11, Total: 56 K$
-88 0xe222757905c603aca4d1c4e47e29a03b37ee3917 unknown, counter: 11, Total: 56 K$
-89 0x03edf7b0da8718df574bb426dbc089d947f9b022 unknown, counter: 11, Total: 56 K$
-90 0x1d5fbd591c13613be10fcb6ce07fce413af4b1a2 unknown, counter: 79, Total: 53 K$
-91 0x73064f6c1c5dad8d917782aec16ab564feb3c011 Trades77+888+887, counter: 47, Total: 53 K$
-92 0x5f7a6c88537967faaeba280a25103b17d1afaa3c unknown, counter: 16, Total: 51 K$
-93 0xf15651e4e8ebd204904efa670021fcb47b69180b unknown, counter: 10, Total: 50 K$
-94 0x1509d0cf64fe6b6edb76fa69e86f05b79e611d0a unknown, counter: 16, Total: 48 K$
-95 0x14d15f15f1151d82e0aa5f2443b7da68f981424c unknown, counter: 76, Total: 47 K$
-96 0x32c60f98fba68cbbb279f3f9a2b2eb500ff32d61 unknown, counter: 9, Total: 46 K$
-97 0xc4fb22ce755343caed2efa98426887328730b821 Trades77+68+369, counter: 86, Total: 45 K$
-98 0xc3e357a84b29670f5a0c066a61d1658b4a70c800 unknown, counter: 1, Total: 44 K$
-99 0x661f3573806009037796537e7e0825e242c5c8ed unknown, counter: 1, Total: 44 K$
-100 0xffec9c63c163981fcc61b410389af1b247584b14 unknown, counter: 1, Total: 44 K$
